@@ -1,0 +1,32 @@
+{
+  "name": "heads-up-grid",
+  "version": "1.5.0",
+  "homepage": "https://github.com/alexmorozov/Heads-Up-Grid",
+  "authors": [
+    "Jason Simanek"
+  ],
+  "description": "Responsive overlay grid for in-browser website development.",
+  "main": [
+      "headsupgrid/hugrid.js",
+      "headsupgrid/hugrid.css"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "dependencies": {
+      "jquery": ">=1.6.2"
+  },
+  "keywords": [
+    "grid",
+    "overlay",
+    "hugrid"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
